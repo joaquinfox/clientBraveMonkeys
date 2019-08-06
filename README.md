@@ -10,9 +10,14 @@ MVP
     - comment on existing messages
 * Invite others
 
-BUILDOUT
+EXTENSIONS
 * Member profile pages
 * Ability to post other media than text
 * A calendar of events
 * Upcaming event information blob
 * Ability to DM member to member.
+
+NEXT STEPS
+* Sketch out a simple front in vanilla js.
+* Create back end containers and repos.
+* Review postGREsql, decide if that is a good back end for this.
